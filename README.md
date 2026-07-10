@@ -1,5 +1,6 @@
 # Tienda-Cartas
-Este es mi primer proyecto como It!
+
+- Este es mi primer proyecto como It!
 
 ## Tienda de Cartas - Base de datos SQL con el Motor MySQL - Utilizando un Cliente MySQL Workbench
 

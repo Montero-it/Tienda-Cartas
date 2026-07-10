@@ -17,7 +17,7 @@ COLLATE utf8mb4_0900_ai_ci;
 
 ## Uso de la base de datos
 
-Una vez creada la base de datos, seleccionamos `tcg_store` para trabajar sobre ella:
+- Una vez creada la base de datos, seleccionamos `tcg_store` para trabajar sobre ella:
 
 ```sql
 USE tcg_store;

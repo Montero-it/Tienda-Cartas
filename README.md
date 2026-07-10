@@ -14,6 +14,15 @@ COLLATE utf8mb4_0900_ai_ci;
 - **utf8mb4**: permite almacenar caracteres Unicode completos.
 - **utf8mb4_0900_ai_ci**: configuración de comparación de texto que ignora diferencias de mayúsculas/minúsculas y acentos.
 
+## Uso de la base de datos
+
+Una vez creada la base de datos, seleccionamos `tcg_store` para trabajar sobre ella:
+
+```sql
+USE tcg_store;
+```
+
+
 ## Estado
 
 - En desarrollo  
